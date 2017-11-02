@@ -1,3 +1,3 @@
 # Algorithm
 
-Learning algorithms through class through University and Khan Academy
+Learning algorithms through class through CodeFights and Geeksforgeeks!
