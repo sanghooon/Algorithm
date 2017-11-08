@@ -1,3 +1,3 @@
-# Algorithm
+# Algorithm and Data Structures
 
-Learning algorithms through class through University and Khan Academy
+Learning algorithms and data structure through class through CodeFight and Hackerrank
